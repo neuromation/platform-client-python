@@ -14,7 +14,7 @@ pytest-cov==2.11.1
 pytest-timeout==1.4.2
 pytest-xdist==2.2.0
 re-assert==1.1.0
-setuptools==52.0.0
+setuptools==53.0.0
 towncrier==19.2.0
 trustme==0.6.0
 twine==3.3.0
